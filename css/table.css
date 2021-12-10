@@ -1,0 +1,34 @@
+
+  /*
+  change the body font-family to Arial, Verdana, sans-serif and set the color to #111111.
+  */
+
+/*
+set the width of the table to 600px.
+ */
+
+/*
+set the padding of table header(th) and standard cells(td) to top 7px, right 10px, bottom 10px, left 10px.
+ */
+
+
+th {
+  /*
+  Transform all characters to uppercase.
+  set letter-spacing to 0.1em.
+  set font-size to 90%.
+  set border-bottom to 2px solid #111111;
+  set border-to to: 1px solid #999;
+  align text to the center
+   */
+}
+
+tr.even {
+  /* set background-color to #efefef;  */
+
+}
+tr:hover {
+  /* set background-color to #c3e6e5; */
+}
+
+/* create a rule that allighns text to the right of the of the money class  */
